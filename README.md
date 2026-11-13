@@ -11,4 +11,4 @@ public-algora-work-board-conductor-services-section is a services section of the
 
 ## Code custody
 
-This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/algora-work-board-conductor](https://github.com/red-cup-engineering/algora-work-board-conductor) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
+This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/public-algora-work-board-conductor-services-section](https://github.com/red-cup-engineering/public-algora-work-board-conductor-services-section) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
